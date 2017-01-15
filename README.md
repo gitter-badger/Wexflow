@@ -2,6 +2,8 @@
 ![alt text](https://aelassas.github.io/wf_logo.png "Wexflow")
 
 # Wexflow
+
+[![Join the chat at https://gitter.im/Wexflow/Lobby](https://badges.gitter.im/Wexflow/Lobby.svg)](https://gitter.im/Wexflow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Open source workflow engine written in pure C#.
 
 Wexflow provides the following tasks:
